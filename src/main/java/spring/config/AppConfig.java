@@ -15,7 +15,7 @@ public class AppConfig {
 //        return new RepositoryClass();
 //    }
 //
-//    @Bean
+//    @Bean("service")
 //    public ServiceClass getService() {
 //        return new ServiceClass();
 //    }
